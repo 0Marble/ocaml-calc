@@ -1,0 +1,4 @@
+(executable
+ (name calc))
+
+; (library (name main) (modules main))
